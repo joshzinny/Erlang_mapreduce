@@ -1,2 +1,2 @@
 # Erlang_mapreduce
-map reduce function with erlang.
+Map Reduce function with Erlang.
